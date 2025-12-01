@@ -18,5 +18,25 @@
     "orders": 0,
     "date": "2025-11-29T23:33:38.687Z",
     "__v": 0
+  },
+  {
+    "imgs": [],
+    "_id": "692cf21021950ded79c2b1ee",
+    "userId": "69124f53ba381ad136cc6d30",
+    "name": "anna",
+    "price": 2000,
+    "ShortDescription": "",
+    "LadingPages": [],
+    "Variants": [],
+    "Offers": [],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/vCgWKDPY/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-12-01T01:40:32.439Z",
+    "__v": 0
   }
 ]
